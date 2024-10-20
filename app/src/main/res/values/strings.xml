@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">banco-matomo</string>
+    <string name="iniciar_sesion">Inicia sesion</string>
+    <string name="introduce_tu_dni">Introduce tu DNI</string>
+    <string name="introduce_tu_contrase_a">Introduce tu contraseña</string>
+    <string name="introduce_tu_contrasena">Introduce tu contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="salir">Salir</string>
+    <string name="add_task">Añadir tarea</string>
+    <string name="bienvenido_a">Bienvenido/a</string>
+
+</resources>
